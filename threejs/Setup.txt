@@ -1,0 +1,4 @@
+Start server:
+python -m http.server
+Goto browser:
+127.0.0.1:8000/threejs/
